@@ -1,54 +1,95 @@
 # Hi there, I'm **Bibhudatta Dash** 👋
 
-🎓 **MCA Student | Aspiring Software Developer**
-💻 **Python | Java | JavaScript | Django | MySQL**
-🌱 Currently improving my **Computer Networks**, **DSA**, and **Full-Stack Development** skills.
-📍 From **Balasore, Odisha**
+🎓 **MCA Graduate (2026)**  
+💻 **Aspiring IT Support & System Administration Professional**  
+🖥️ Windows Administration | Networking | Troubleshooting | Technical Support  
+📍 From **Balasore, Odisha, India**
 
 ---
 
 ## 🚀 About Me
 
-I'm an MCA student with a strong interest in **software development**, **web technologies**, and **problem solving**. I love learning new concepts and building projects that improve my technical skills. Passionate about writing clean code and becoming industry-ready.
+I am an MCA graduate passionate about IT infrastructure, technical troubleshooting, system administration, and end-user support. I enjoy solving real-world technical problems, configuring systems, and learning how enterprise IT environments work.
+
+Currently improving my skills in:
+
+- Windows Administration
+- Computer Networks
+- Hardware & Software Troubleshooting
+- Active Directory & User Management
+- Git & Documentation
+- Basic Scripting and Automation
+
+I am actively building hands-on IT support projects and labs to become industry-ready for Technical Support and IT Support Engineer roles.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-### **Languages:**
+### Operating Systems
+- Windows 10 / Windows 11
+- Basic Linux
 
-* Python
-* Java
-* JavaScript
+### IT Support Skills
+- User Account Management
+- System Configuration
+- Registry & Policy Management
+- Software Installation & Troubleshooting
+- Basic Networking
+- Remote Support Concepts
 
-### **Frameworks & Tools:**
+### Tools & Technologies
+- Git & GitHub
+- VS Code
+- MySQL
+- VirtualBox
+- Command Prompt / PowerShell
 
-* Django
-* HTML, CSS
-* Git & GitHub
-* MySQL
-* VS Code
+### Programming Knowledge
+- Python
+- HTML & CSS
+- Django Basics
 
 ---
 
 ## 📌 Projects
 
-### **🛒 E-Commerce Web Application (Django)**
+### 🖥️ Windows User Restriction & Security Lab
+Configured restricted user environments using Windows policies, registry settings, and administrative controls to simulate real-world enterprise restrictions.
 
-A full-featured shopping platform with authentication, cart, product management and MySQL database.
+### 🌐 Basic Network Troubleshooting Lab
+Worked on IP configuration, connectivity testing, network diagnostics, and troubleshooting using Windows networking tools.
 
-### **🎓 Student Management System**
+### 🛒 E-Commerce Web Application (Django)
+Built a shopping platform with authentication, product management, and MySQL database integration.
 
-CRUD web app built using Django and MySQL to manage student records.
+### 🎓 Student Management System
+CRUD-based Django application for managing student records and database operations.
+
+---
+
+## 📚 Currently Learning
+
+- Computer Networking
+- IT Helpdesk Operations
+- System Administration
+- Active Directory
+- Ticketing Systems
+- PowerShell Basics
 
 ---
 
 ## 🤝 Connect With Me
 
-* **LinkedIn:** *www.linkedin.com/in/bibhudatta-dash-4390b0205*
-* **GitHub:** *bibhu1207-design*
-* **Email:** *bibhu1207@gmail.com*
+- LinkedIn:  
+  www.linkedin.com/in/bibhudatta-dash-4390b0205
+
+- GitHub:  
+  github.com/bibhu1207-design
+
+- Email:  
+  bibhu1207@gmail.com
 
 ---
 
-⭐ *Feel free to check out my repositories and follow me for future projects!*
+⭐ *Building practical IT skills one project at a time.*

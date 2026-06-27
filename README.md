@@ -60,9 +60,6 @@ Configured restricted user environments using Windows policies, registry setting
 ### 🌐 Basic Network Troubleshooting Lab
 Worked on IP configuration, connectivity testing, network diagnostics, and troubleshooting using Windows networking tools.
 
-### 🛒 E-Commerce Web Application (Django)
-Built a shopping platform with authentication, product management, and MySQL database integration.
-
 ### 🎓 Student Management System
 CRUD-based Django application for managing student records and database operations.
 
